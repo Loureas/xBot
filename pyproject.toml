@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "xBot"
+description = "The Moderator and YouTube video Notifier Telegram Bot for group chats"
+version = "1.0.0"
+license = "GPL-3.0-or-later"
+authors = [ "Pavel Piskursky" ]
+readme = "README.md"
+repository = "https://github.com/Loureas/xBot"
+exclude = [
+    ".gitignore",
+    "__pycache__/",
+    "*.py[cod]",
+    "last_video",
+    "rules.txt",
+    "welcome.txt"
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+aiogram = "^2.20"
+uvloop = "^0.16.0"
+ujson = "^5.2.0"
+aiohttp = { version = "^3.8.1", extras = [ "speedups" ] }
+apscheduler = "^3.9.1"
+environs = "^9.5.0"
+
