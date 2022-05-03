@@ -4,12 +4,12 @@ Telegram bot that allows you to moderate a group chat and send notifications abo
 
 ## ⭐️ Features
 
-    - Sending reports along with comments from a member chat
-    - Displaying informational messages (such as rules and available bot commands)
-    - Attracting the attention of admins
-    - Opportunities for admins to issue bans and mutes to members
-    - Setting Rules and Welcome Message
-    - Collection of reports in the admin chat
+- Sending reports along with comments from a member chat
+- Displaying informational messages (such as rules and available bot commands)
+- Attracting the attention of admins
+- Opportunities for admins to issue bans and mutes to members
+- Setting Rules and Welcome Message
+- Collection of reports in the admin chat
 
 ## ⚙️ Installation and configuration
 
