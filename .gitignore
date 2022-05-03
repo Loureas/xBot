@@ -1,0 +1,14 @@
+# Environments
+.env
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# File that contents last video ID
+last_video
+
+# Information files for Telegram group chats
+rules.txt
+welcome.txt
+
