@@ -1,6 +1,9 @@
 # Environments
 .env
 
+# VIM/Neovim Swap-files
+.+?\.sw.?
+
 # Byte-compiled / optimized
 __pycache__/
 *.py[cod]
