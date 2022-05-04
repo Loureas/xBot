@@ -38,7 +38,7 @@ Telegram bot that allows you to moderate a group chat and send notifications abo
 
 ### Configuration
 
-Get all the credentials you need, open the `.env` file and fill in the empty environment variables:
+Get all the credentials you need, open the new `.env` file and fill in the empty environment variables as from template `.env.example`:
 
 ```sh
 # General
