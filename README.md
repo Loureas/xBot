@@ -15,10 +15,10 @@ Telegram bot that allows you to moderate a group chat and send notifications abo
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository and go to the directory:
 
     ```sh
-    git clone https://github.com/Loureas/xBot
+    git clone https://github.com/Loureas/xBot && cd xBot
     ```
 
 2. Install required dependencies:
